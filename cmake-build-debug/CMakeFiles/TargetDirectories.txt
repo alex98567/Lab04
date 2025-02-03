@@ -1,0 +1,3 @@
+C:/Users/Alex Howe/CLionProjects/Lab04/cmake-build-debug/CMakeFiles/Lab04.dir
+C:/Users/Alex Howe/CLionProjects/Lab04/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex Howe/CLionProjects/Lab04/cmake-build-debug/CMakeFiles/rebuild_cache.dir
